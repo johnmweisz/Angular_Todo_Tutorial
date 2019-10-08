@@ -1,0 +1,7 @@
+.todo{
+    font-style: italic;
+    color: red;
+}
+.is-complete{
+    color: green;
+}
